@@ -1,3 +1,3 @@
-sdfs# GitTesting
+# GitTesting
 For personal use
 blarg
